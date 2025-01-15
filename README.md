@@ -1,6 +1,6 @@
 ## 👋 Sup, I'm Elia (@trippymajo)
 ### 💻 About Me
-I'm a dedicated full-stack programmer experinced in both development and quality assurance. My expertise lies in:
+I'm a dedicated software engineer experinced in both development and quality assurance. My expertise lies in:
 * Programming Languages: C++, C#, C
 * QA Tools: MsTests, CodedUI
 
@@ -14,7 +14,7 @@ I'm passionate about:
 
 ### 💼 Current Work
 Currently, I am actively working with:
-* Sofware Development
+* Desktop Sofware Development
 * Programming Languages: C++, C#, C
 * Platforms: Windows, Linux
 
