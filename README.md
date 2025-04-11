@@ -4,11 +4,15 @@ I'm a dedicated software engineer experinced in both development and quality ass
 * Programming Languages: C++, C#, C
 * QA Tools: MsTests, CodedUI, GoogleTest
 
+### 📚 About repo
+Most of the repos are just blueprints for the actual features for large-scale project inside company.
+And the other part of projects are just to master new things or what already been known
+
 ### 👀 Interests
 I'm passionate about:
-* Tech innovations
-* Computers and hardware
+* Web App development
 * Coding and software development
+* Software Designing
 * Debugging complex issues
 * Reverse-engineering software
 
@@ -20,15 +24,15 @@ Currently, I am actively working with:
 
 ### 👩‍💻 My Tech Stack
 * C++
-   * Frameworks & Tools: MFC, Qt, C++/CLI, boost, STL, WinAPI, Multithreading
-   * Compilers: GCC, MSVC, CMake, QMake
+   * Frameworks & Tools: STL, Multithreading, C++/CLI, boost, MFC, Qt6, WinAPI
+   * Compilers and tools: GCC, MSVC, CMake, QMake
 * C#
     * Frameworks: .NET Framework, .NET Core, EF Core, ADO.NET, Asynchronous programming
     * UI Technologies: WinForms, WPF
 * Development Tools
     * IDEs: MS Visual Studio, Qt Creator, MS Visual Code
-    * CI/CD: Docker, TeamCity
-    * Debugging/Reverse-Engineering: ILSpy, Ghidra, dnSpy
+    * CI/CD: Docker, TeamCity, Azure
+    * Debugging/Reverse-Engineering: ILSpy, Ghidra, dnSpy, IDA
     * Version Control: Git, SVN
 
 ### 🌐 Let's Connect
