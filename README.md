@@ -1,7 +1,7 @@
 ## 👋 Sup, I'm Elia (@trippymajo)
 ### 🔮 About Me
 *I've summoned for a divine cause*  
-- For casting some spells and deliver magic in 
+— For casting some spells and deliver magic in:  
 * C++, C# .NET, C, Python
 
 ### 🪄 My Tech Stack
