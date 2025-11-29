@@ -8,7 +8,7 @@
 * C++
    * Frameworks & Tools: STL, Multithreading, C++/CLI, boost, sockets, WinAPI
    * Compilers and tools: GCC, MSVC, CMake, QMake
-   * GUI Frameworks: MFC, Qt8
+   * GUI Frameworks: MFC, Qt6
 * C#
     * Frameworks: .NET Framework, .NET Core, EF Core, ADO.NET, Asynchronous programming
     * GUI Technologies: WinForms, WPF
