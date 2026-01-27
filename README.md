@@ -2,11 +2,11 @@
 ### 🔮 About Me
 *I've summoned for a divine cause*  
 — For casting some spells and deliver magic in:  
-* C++, C# .NET, C, Python
+* C++, C# .NET, Rust C, Python
 
 ### 🪄 My Tech Stack
 * C++
-   * Frameworks & Tools: STL, Multithreading, C++/CLI, boost, sockets, WinAPI
+   * Frameworks & Tools: STL, Multithreading, C++/CLI, boost, sockets, WinAPI, COM API
    * Compilers and tools: GCC, MSVC, CMake, QMake
    * GUI Frameworks: MFC, Qt6
 * C#
