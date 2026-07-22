@@ -117,7 +117,8 @@ require("lazy").setup({
     },
 })
 
-
+--
+-- Options section
 vim.opt.number = true
 vim.opt.relativenumber = false
 vim.opt.mouse = "a"
@@ -128,6 +129,16 @@ vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
 vim.opt.expandtab = true
 vim.opt.smartindent = true
+
+-- Turn on/off with :set list OR set list!
+vim.opt.list = true
+vim.opt.listchars = {
+  tab = ">-",           -- tab characters
+  space = "·",          -- space characters
+  nbsp = "␣",           -- non-breaking spaces
+  extends = "▶",        -- text continues off-screen (right)
+  precedes = "◀",       -- text continues off-screen (left)
+}
 
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
